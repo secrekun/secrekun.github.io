@@ -1,7 +1,7 @@
 
 # Welcome to Secre's site
 <p>
-<li><a href="aboutme.html">About me</a></li>
+<li><a href="aboutme.html"><strong>About me</strong></a></li>
 
 ### Contact
 <p>
