@@ -2,6 +2,7 @@
 # Welcome to Secre's site
 <p>
 <li><a href="aboutme.html"><strong>About me</strong></a></li>
+</p>
 
 ### Contact
 <p>
