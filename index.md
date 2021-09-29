@@ -1,4 +1,4 @@
+# 
 ## Welcome to Secre's site
-### Support or Contact
-SECRE#8427
-
+### Contact
+<img src="discord logo.jpg" alt="Discord" style="width:16px;height:16px;"> SECRE#8427
