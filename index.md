@@ -1,5 +1,8 @@
-# 
-## Welcome to Secre's site
+
+# Welcome to Secre's site
+<p>
+<li><a href="aboutme.html">About me</a></li>
+
 ### Contact
 <p>
 &emsp;&emsp;<img src="discord logo.png" alt="Discord" style="width:16px;height:16px;" > 
