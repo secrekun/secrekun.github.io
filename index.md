@@ -2,6 +2,7 @@
 # Welcome to Secre's site
 ## Pages
 ### <a href="aboutme.html"><strong>About me</strong></a>
+### <a href="mywork.html"><strong>My work</strong></a>
 
 ## Contact me
 <p>
