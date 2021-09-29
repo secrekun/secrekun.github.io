@@ -1,4 +1,5 @@
-
+  <link rel="shortcut icon" type="image/x-icon" href="secrelogo.jpg" />
+  
 # Welcome to Secre's site
 ## Pages
 ### <a href="aboutme.html"><strong>About me</strong></a>
