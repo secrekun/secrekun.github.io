@@ -1,11 +1,11 @@
 
 # Welcome to Secre's site
 ## Pages
-<p>
+### <p>
 <li><a href="aboutme.html"><strong>About me</strong></a></li>
 </p>
 
-### Contact me
+## Contact me
 <p>
 &emsp;&emsp;<img src="discord logo.png" alt="Discord" style="width:16px;height:16px;" > 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
