@@ -7,8 +7,8 @@
 
 ## Contact me
 <p>
-&emsp;&emsp;<img src="C:\Users\Theo\Documents\GitHub\secrekun.github.io\Public\Photos & logos\discord logo.png" alt="Discord" style="width:16px;height:16px;" > 
+&emsp;&emsp;<img src="discord logo.png" alt="Discord" style="width:16px;height:16px;" > 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="C:\Users\Theo\Documents\GitHub\secrekun.github.io\Public\Photos & logos\twitterlogo.jpg" alt="Twitter" style="width:16px;height:16px;" >
+<img src="twitterlogo.jpg" alt="Twitter" style="width:16px;height:16px;" >
 <br><strong> SECRE#8427 &emsp; @25vaj</strong>
 </p>
