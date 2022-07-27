@@ -7,6 +7,7 @@
 
 ## Contact me
 <p>
+<img src="takumilogo.jpg" alt="Takumi" style="width:250px;height:250px;"
 &emsp;&emsp;<img src="discord logo.png" alt="Discord" style="width:16px;height:16px;" > 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="twitterlogo.jpg" alt="Twitter" style="width:16px;height:16px;" >
