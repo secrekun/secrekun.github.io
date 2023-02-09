@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="file:///C|/Users/Mihai/Desktop/GunGame/pawno/xml/pawndoc.xsl" type="text/xsl"?>
+<doc source="config.inc.php">
+	<assembly>
+		<name>config.inc.php</name>
+	</assembly>
+	<members>
+
+		<!-- enumerations -->
+
+		<!-- constants -->
+
+		<!-- variables -->
+
+		<!-- functions -->
+		<member name="M:call_user_func" syntax="call_user_func()">
+			<stacksize value="1"/>
+		</member>
+		<member name="M:catch" syntax="catch(PDOException)">
+			<stacksize value="1"/>
+			<param name="PDOException">
+			</param>
+		</member>
+		<member name="M:elseif" syntax="elseif()">
+			<stacksize value="1"/>
+		</member>
+		<member name="M:foreach" syntax="foreach()">
+			<stacksize value="1"/>
+			<referrer name="preg_match_all"/>
+		</member>
+		<member name="M:preg_match_all" syntax="preg_match_all()">
+			<stacksize value="8"/>
+			<dependency name="foreach"/>
+			<dependency name="str_replace"/>
+		</member>
+		<member name="M:shuffle" syntax="shuffle()">
+			<stacksize value="1"/>
+		</member>
+		<member name="M:str_replace" syntax="str_replace()">
+			<stacksize value="1"/>
+			<referrer name="preg_match_all"/>
+		</member>
+
+	</members>
+</doc>
